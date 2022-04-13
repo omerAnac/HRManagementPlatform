@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f91cc640-6bc2-48aa-8d2d-c89947aa4c1f": {
+      "ProjectGuid": "f91cc640-6bc2-48aa-8d2d-c89947aa4c1f",
+      "DisplayName": "HRManagement.UI.MVC",
+      "ColorIndex": 0
+    },
+    "78b2872f-d53c-4a7a-a851-2df6ba490fc1": {
+      "ProjectGuid": "78b2872f-d53c-4a7a-a851-2df6ba490fc1",
+      "DisplayName": "HRManagement.BLL",
+      "ColorIndex": 1
+    },
+    "d748f12e-8cc0-4fe9-a624-d03d12ff3ebd": {
+      "ProjectGuid": "d748f12e-8cc0-4fe9-a624-d03d12ff3ebd",
+      "DisplayName": "HRManagement.ViewModel",
+      "ColorIndex": 2
+    },
+    "b8c1cc80-7663-4165-af8d-4eeae7f651b7": {
+      "ProjectGuid": "b8c1cc80-7663-4165-af8d-4eeae7f651b7",
+      "DisplayName": "HRManagement.Model",
+      "ColorIndex": 3
+    },
+    "4bd4acf4-0d6e-45dc-9c6b-3291346b74a4": {
+      "ProjectGuid": "4bd4acf4-0d6e-45dc-9c6b-3291346b74a4",
+      "DisplayName": "HRManagement.Core",
+      "ColorIndex": 4
+    },
+    "5a375f8f-862e-4530-9457-8a560fcd6257": {
+      "ProjectGuid": "5a375f8f-862e-4530-9457-8a560fcd6257",
+      "DisplayName": "HRManagement.DAL",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

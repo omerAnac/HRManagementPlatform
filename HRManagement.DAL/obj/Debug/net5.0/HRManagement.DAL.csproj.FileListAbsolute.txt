@@ -1,0 +1,40 @@
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.deps.json
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.runtimeconfig.json
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\ref\HRManagement.DAL.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Core.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Model.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Model.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Core.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.CopyComplete
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\ref\HRManagement.DAL.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.genruntimeconfig.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.deps.json
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.runtimeconfig.json
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.runtimeconfig.dev.json
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\ref\HRManagement.DAL.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.DAL.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Core.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Model.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Model.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\bin\Debug\net5.0\HRManagement.Core.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.csproj.CopyComplete
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\ref\HRManagement.DAL.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.DAL\obj\Debug\net5.0\HRManagement.DAL.genruntimeconfig.cache

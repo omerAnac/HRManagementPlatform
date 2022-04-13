@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.deps.json
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\ref\HRManagement.ViewModel.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Core.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Model.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Model.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Core.pdb
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.CopyComplete
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\ref\HRManagement.ViewModel.dll
+C:\Users\Lenovo\Source\Workspaces\İnsan Kaynakları Yönetimi Platformu5\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.deps.json
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\ref\HRManagement.ViewModel.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.ViewModel.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Core.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Model.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Model.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\bin\Debug\net5.0\HRManagement.Core.pdb
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.AssemblyInfo.cs
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.csproj.CopyComplete
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\ref\HRManagement.ViewModel.dll
+C:\Users\Lenovo\source\Workspaces\HRManagementPlatform\HRManagement.ViewModel\obj\Debug\net5.0\HRManagement.ViewModel.pdb
